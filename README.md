@@ -9,10 +9,10 @@ novo CRUD (create, read, update e delete) de usuários. <br><br>
 aplicativo Insomnia (ou Postman). <br><br>
 
 <h2>Sua tarefa será implementar os códigos dos métodos nas duas
-classes, <b>UsuariosController.cs<\b> e <b>UsuarioRepository.cs.<\b> Será
+classes, UsuariosController.cs e UsuarioRepository.cs. Será
 necessário, também, o desenvolvimento do model Usuario.cs,
 a referência do model Usuario na classe ExoContext.cs e, por
-último, a inserção do serviço na classe <b> Program.cs.<\b>
+último, a inserção do serviço na classe  Program.cs.
 
 
 
